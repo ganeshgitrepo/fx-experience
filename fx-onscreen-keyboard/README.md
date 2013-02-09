@@ -29,10 +29,10 @@ Demo
 build jar and start demo main class:
 
 Swing Demo App:
-org.comtel.javafx.SwingMainDemo
+`org.comtel.javafx.SwingMainDemo`
 
 JavaFX Demo App:
-org.comtel.javafx.MainDemo
+`org.comtel.javafx.MainDemo`
 
 License
 ===
