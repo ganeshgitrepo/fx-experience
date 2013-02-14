@@ -9,5 +9,6 @@ javafx 2.x samples -> onscreen keyboard project
 - CSS layout and shape icons
 - XML layer definition
 - button popup sub menu
-- locale switcher
+- multi locale switcher
 - Copy/Paste + Arrow Navigation
+- resizable
